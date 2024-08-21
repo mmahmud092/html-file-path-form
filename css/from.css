@@ -1,0 +1,27 @@
+.wrapper{
+	width: 50%;
+	margin: 0 auto;
+	border: 5px solid #ddd;
+
+}
+
+lable{
+	 font-size: 20px;
+}
+
+.first_name, .last_name, .email, .password{
+	width: 50%;
+	height: 15px;
+	padding: 10px;
+	font-size: 16px;
+}
+
+.first_name, .last_name, .email, .password{
+    background-color: lightblue;
+}
+
+h1 {
+    color: ;
+    text-align: left;
+}
+
